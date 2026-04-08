@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Fine custom quality carpentry",
+    "phone": "+12068838797",
+    "category": "carpenter",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Seattle's Carpentry Masters",
+      "heroSubline": "Crafting exceptional carpentry solutions for Seattle homes. Quality craftsmanship, guaranteed.",
+      "aboutTitle": "Built on Craftsmanship, Rooted in Seattle",
+      "aboutText": [
+        "Fine Custom Quality Carpentry started with a simple goal: to bring unparalleled carpentry expertise to Seattle homeowners. We saw a need for reliable, skilled carpenters who understood the unique challenges and opportunities presented by Seattle's diverse housing stock and climate.",
+        "Our approach is straightforward: meticulous planning, expert execution, and unwavering commitment to customer satisfaction. We believe in clear communication, transparent pricing, and exceeding expectations on every project, big or small. We use premium materials and time-tested techniques to deliver enduring quality.",
+        "We're proud to be a part of the Seattle community, contributing to the beauty and functionality of its homes. We actively support local initiatives and prioritize sustainable practices, ensuring our work benefits both our clients and the environment."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Decades of experience delivering exceptional carpentry results."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Seattle's homes and climate challenges."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "On-time, on-budget, and dedicated to your satisfaction."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "Using the best materials for lasting durability and beauty."
+        }
+      ],
+      "ctaHeadline": "Transform Your Seattle Home",
+      "ctaSubline": "Contact us today for a free consultation and discover the difference quality carpentry can make."
+    },
+    "services": [
+      {
+        "slug": "custom-cabinetry",
+        "name": "Custom Cabinetry",
+        "shortDescription": "Elevate your home with handcrafted, bespoke cabinetry.",
+        "description": "Transform your kitchen, bathroom, or any room with custom-designed and built cabinetry. We work closely with you to understand your specific needs and style preferences, creating truly unique and functional storage solutions. From classic designs to modern aesthetics, we handle every detail, from material selection to precise installation. We understand the nuances of Seattle homes, ensuring cabinets are perfectly fitted and built to withstand the damp climate. Maximize space, improve organization, and add lasting value to your home with our custom cabinetry services.\n\n We source premium hardwoods and utilize proven construction techniques to guarantee durability and beauty. Our commitment to quality extends beyond the finished product, ensuring a smooth and seamless installation process.\n\n Imagine handcrafted cabinets perfectly tailored to your Seattle craftsman, or sleek modern storage for your Bellevue condo. We specialize in bringing your vision to life with exceptional craftsmanship.",
+        "process": [
+          "Step 1: Consultation & Design – We discuss your needs, style, and budget to create a detailed design plan.",
+          "Step 2: Material Selection – Choose from a wide range of premium hardwoods and finishes.",
+          "Step 3: Fabrication – Our skilled craftsmen build your cabinets with precision and care.",
+          "Step 4: Installation – We ensure a seamless and professional installation, minimizing disruption to your home."
+        ],
+        "benefits": [
+          "Maximize storage space",
+          "Enhance home aesthetics",
+          "Increase property value",
+          "Create personalized solutions"
+        ],
+        "faq": [
+          {
+            "question": "What materials do you use for custom cabinetry?",
+            "answer": "We use a variety of premium hardwoods, including maple, oak, cherry, and walnut, as well as high-quality plywood and veneers. We source our materials from sustainable suppliers."
+          },
+          {
+            "question": "How long does it take to complete a custom cabinetry project?",
+            "answer": "The timeline varies depending on the size and complexity of the project. Typically, it takes between 4 to 8 weeks from design to installation."
+          },
+          {
+            "question": "Do you offer design services?",
+            "answer": "Yes, we offer comprehensive design services to help you create the perfect cabinetry for your home. Our experienced designers will work with you to develop a detailed plan that meets your needs and style preferences."
+          }
+        ]
+      },
+      {
+        "slug": "deck-construction-repair",
+        "name": "Deck Construction & Repair",
+        "shortDescription": "Build or restore your outdoor living space with expert deck services.",
+        "description": "Seattle's weather demands durable and well-constructed decks. We specialize in designing, building, and repairing decks that can withstand the region's persistent rain and moss growth. Whether you're envisioning a new outdoor entertaining space or need to restore an existing deck, we have the expertise to deliver exceptional results. We handle everything from initial design and permitting to material selection and construction.\n\n We understand the importance of proper drainage and weatherproofing to prevent wood rot and ensure the longevity of your deck. We use premium treated lumber, composite decking, and other durable materials to create beautiful and functional outdoor spaces. We also offer deck repair services, including replacing damaged boards, reinforcing structures, and applying protective coatings.\n\n Imagine enjoying stunning views of Puget Sound from your newly built deck, or hosting summer barbecues on a professionally restored outdoor space. We're committed to creating outdoor living spaces that enhance your home and lifestyle.",
+        "process": [
+          "Step 1: Site Assessment & Design – We evaluate your property and create a custom deck design.",
+          "Step 2: Permitting – We handle all necessary permits and approvals.",
+          "Step 3: Construction – Our skilled team builds your deck with precision and attention to detail.",
+          "Step 4: Finishing – We apply protective coatings and ensure a flawless finish."
+        ],
+        "benefits": [
+          "Expand your outdoor living space",
+          "Increase property value",
+          "Enhance curb appeal",
+          "Create a space for relaxation and entertainment"
+        ],
+        "faq": [
+          {
+            "question": "What type of decking materials do you recommend for Seattle's climate?",
+            "answer": "We recommend treated lumber, composite decking, and cedar for their durability and resistance to moisture and rot. We can help you choose the best material for your budget and aesthetic preferences."
+          },
+          {
+            "question": "Do I need a permit to build a deck in Seattle?",
+            "answer": "Yes, in most cases, you will need a permit to build a deck in Seattle. We can handle the permitting process for you to ensure compliance with local regulations."
+          },
+          {
+            "question": "How often should I stain or seal my deck?",
+            "answer": "We recommend staining or sealing your deck every 2-3 years to protect it from the elements and prevent wood rot. We offer staining and sealing services to keep your deck looking its best."
+          }
+        ]
+      },
+      {
+        "slug": "framing-services",
+        "name": "Framing Services",
+        "shortDescription": "Expert framing for new construction and renovations.",
+        "description": "The structural integrity of your home depends on solid framing. We provide expert framing services for new construction, additions, and renovations. Our experienced carpenters ensure precise and accurate framing that meets all building codes and standards. We understand the importance of proper load-bearing and structural support, especially in Seattle's earthquake zone.\n\n We work with a variety of framing materials, including wood, steel, and engineered lumber. We use advanced techniques and equipment to ensure the highest level of accuracy and efficiency. Whether you're building a new home in Queen Anne or adding an addition to your Capitol Hill bungalow, we have the expertise to handle any framing project.\n\n We pride ourselves on our attention to detail and commitment to quality. We work closely with architects, engineers, and other contractors to ensure a seamless and successful project.",
+        "process": [
+          "Step 1: Blueprint Review – We carefully review architectural plans and specifications.",
+          "Step 2: Material Procurement – We source high-quality framing materials.",
+          "Step 3: Framing Construction – Our skilled carpenters erect the framing structure with precision.",
+          "Step 4: Inspection – We ensure the framing meets all building codes and standards."
+        ],
+        "benefits": [
+          "Ensures structural integrity",
+          "Meets building codes",
+          "Provides a solid foundation for your home",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "What type of framing materials do you use?",
+            "answer": "We use a variety of framing materials, including wood, steel, and engineered lumber, depending on the specific requirements of the project. We prioritize using sustainable and durable materials."
+          },
+          {
+            "question": "How long does it take to frame a house?",
+            "answer": "The timeline varies depending on the size and complexity of the house. Typically, it takes between 1 to 3 weeks to frame a house."
+          },
+          {
+            "question": "Do you work with architects and engineers?",
+            "answer": "Yes, we work closely with architects and engineers to ensure the framing meets all design specifications and structural requirements."
+          }
+        ]
+      },
+      {
+        "slug": "trim-and-moulding",
+        "name": "Trim and Moulding Installation",
+        "shortDescription": "Add elegance and detail with expert trim and moulding services.",
+        "description": "Enhance the beauty and character of your home with expertly installed trim and moulding. We offer a wide range of trim and moulding styles to complement any architectural design, from classic to contemporary. Our skilled carpenters ensure precise cuts, seamless joints, and a flawless finish. We understand the importance of proper installation to prevent gaps and ensure lasting beauty.\n\n We work with a variety of materials, including wood, MDF, and PVC. We can help you choose the best material for your budget and aesthetic preferences. Whether you're looking to add crown moulding to your living room or install baseboards in your bedroom, we have the expertise to deliver exceptional results.\n\n Imagine adding a touch of elegance to your Seattle craftsman with custom-designed trim and moulding, or creating a sleek and modern look in your Bellevue condo. We're committed to transforming your home with beautiful and functional trim and moulding.",
+        "process": [
+          "Step 1: Consultation & Design – We discuss your style preferences and create a custom trim and moulding plan.",
+          "Step 2: Material Selection – Choose from a wide range of materials and styles.",
+          "Step 3: Installation – Our skilled carpenters install the trim and moulding with precision.",
+          "Step 4: Finishing – We paint or stain the trim and moulding to match your décor."
+        ],
+        "benefits": [
+          "Enhance home aesthetics",
+          "Add character and detail",
+          "Increase property value",
+          "Create a polished and refined look"
+        ],
+        "faq": [
+          {
+            "question": "What type of trim and moulding styles do you offer?",
+            "answer": "We offer a wide range of trim and moulding styles including crown moulding, baseboards, chair rails, window trim, and door trim. We can customize our services to meet your specific needs and preferences."
+          },
+          {
+            "question": "What materials do you use for trim and moulding?",
+            "answer": "We use a variety of materials, including wood, MDF, and PVC, depending on the style and budget. We can help you choose the best material for your project."
+          },
+          {
+            "question": "How long does it take to install trim and moulding?",
+            "answer": "The timeline varies depending on the size and complexity of the project. Typically, it takes between 1 to 5 days to install trim and moulding in a room."
+          }
+        ]
+      },
+      {
+        "slug": "door-and-window-installation",
+        "name": "Door and Window Installation",
+        "shortDescription": "Improve energy efficiency and aesthetics with professional door and window installation.",
+        "description": "Upgrade your home with professionally installed doors and windows. We offer a wide selection of doors and windows to enhance energy efficiency, security, and aesthetics. Our experienced carpenters ensure precise installation, minimizing drafts and maximizing energy savings. We understand the importance of proper sealing and weatherproofing to protect your home from Seattle's elements.\n\n We work with a variety of door and window materials, including wood, vinyl, and fiberglass. We can help you choose the best material for your budget and performance requirements. Whether you're replacing old, drafty windows or installing a new front door, we have the expertise to deliver exceptional results.\n\n Imagine enjoying a warmer, quieter, and more energy-efficient home with new doors and windows. We're committed to providing high-quality installation services that enhance your comfort and property value.",
+        "process": [
+          "Step 1: Consultation & Selection – We help you choose the right doors and windows for your home.",
+          "Step 2: Measurement & Ordering – We take precise measurements and order your doors and windows.",
+          "Step 3: Installation – Our skilled carpenters install the doors and windows with care.",
+          "Step 4: Finishing – We seal and weatherstrip the doors and windows for optimal performance."
+        ],
+        "benefits": [
+          "Improve energy efficiency",
+          "Enhance security",
+          "Increase property value",
+          "Reduce noise pollution"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of energy-efficient windows?",
+            "answer": "Energy-efficient windows can significantly reduce your energy bills by minimizing heat loss in the winter and heat gain in the summer. They also help reduce noise pollution and improve indoor comfort."
+          },
+          {
+            "question": "What type of doors and windows do you offer?",
+            "answer": "We offer a wide selection of doors and windows, including wood, vinyl, and fiberglass, in a variety of styles and sizes. We can help you choose the best options for your home."
+          },
+          {
+            "question": "How long does it take to install a door or window?",
+            "answer": "The timeline varies depending on the complexity of the installation. Typically, it takes between 2 to 8 hours to install a door or window."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair-installation",
+        "name": "Siding Repair & Installation",
+        "shortDescription": "Protect and beautify your home with expert siding services.",
+        "description": "Protect your Seattle home from the elements with our siding repair and installation services. We understand the critical role siding plays in preventing water damage and maintaining structural integrity. We offer a wide range of siding materials, including wood, vinyl, and fiber cement, to suit your style and budget. Our experienced team ensures proper installation to withstand Seattle's weather conditions.\n\n From minor repairs to complete siding replacement, we handle it all. We address issues like wood rot, warping, and cracking to prevent further damage. We meticulously install new siding, ensuring a weather-tight seal and enhanced curb appeal. We understand the unique challenges presented by Seattle's climate, ensuring your siding provides long-lasting protection and beauty.\n\n We work with precision and care to ensure a flawless finish. Whether you need to repair a few damaged boards or replace the siding on your entire home, we're committed to delivering exceptional results.",
+        "process": [
+          "Step 1: Inspection & Assessment – We thoroughly inspect your siding for damage and assess your needs.",
+          "Step 2: Material Selection – We help you choose the best siding material for your home and budget.",
+          "Step 3: Installation – Our skilled team installs the siding with precision and attention to detail.",
+          "Step 4: Finishing – We paint or stain the siding to match your desired color."
+        ],
+        "benefits": [
+          "Protects your home from the elements",
+          "Enhances curb appeal",
+          "Increases property value",
+          "Prevents water damage and wood rot"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of replacing my siding?",
+            "answer": "Replacing your siding can improve your home's energy efficiency, protect it from water damage, enhance its curb appeal, and increase its value."
+          },
+          {
+            "question": "What type of siding materials do you offer?",
+            "answer": "We offer a wide range of siding materials, including wood, vinyl, and fiber cement. We can help you choose the best option for your needs and budget."
+          },
+          {
+            "question": "How long does it take to replace siding?",
+            "answer": "The timeline varies depending on the size of your home and the complexity of the project. Typically, it takes between 1 to 3 weeks to replace siding."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bellevue",
+        "slug": "bellevue-wa",
+        "state": "WA",
+        "content": "Fine Custom Quality Carpentry is proud to offer our premier carpentry services to the residents of Bellevue, Washington. Known for its upscale neighborhoods and a significant number of homes built between the 1980s and 2000s, Bellevue presents unique carpentry needs, from updating existing structures to creating custom additions that blend seamlessly with the existing architecture.\n\nOur team has extensive experience working on Bellevue homes, understanding the specific styles and materials common in the area. We are adept at handling projects ranging from kitchen and bathroom remodels to custom cabinetry and deck construction, ensuring that every detail reflects the high standards of Bellevue living. We are also experienced in handling the challenges posed by the Pacific Northwest climate, ensuring our work is durable and weather-resistant.",
+        "localContext": "Bellevue's upscale homes from the 1980s-2000s require a keen eye for detail and a commitment to quality craftsmanship to maintain their value and aesthetic appeal. The mild, wet winters necessitate durable, weather-resistant carpentry solutions.",
+        "nearbyAreas": [
+          "Redmond",
+          "Kirkland",
+          "Seattle"
+        ]
+      },
+      {
+        "city": "Redmond",
+        "slug": "redmond-wa",
+        "state": "WA",
+        "content": "Fine Custom Quality Carpentry provides expert carpentry services to Redmond, Washington, a vibrant city known as the home of Microsoft. Redmond's housing market features a mix of styles, often reflecting the needs of its tech-savvy residents. We offer a comprehensive range of carpentry solutions tailored to meet the diverse needs of Redmond homeowners.\n\nWhether you're looking to update your kitchen with modern cabinetry, create a functional home office space, or enhance your outdoor living area with a custom deck, our skilled carpenters are ready to bring your vision to life. We understand the importance of quality and efficiency, and we are committed to delivering exceptional results that exceed your expectations. We also take into account the local climate with its mild but wet winters, using materials and techniques that ensure longevity.",
+        "localContext": "Redmond, with its numerous homes near the Microsoft campus, appreciates modern design and efficient use of space, demanding carpentry that blends functionality with contemporary aesthetics. The region's wet climate requires durable and weather-resistant construction.",
+        "nearbyAreas": [
+          "Bellevue",
+          "Sammamish",
+          "Woodinville"
+        ]
+      },
+      {
+        "city": "Kirkland",
+        "slug": "kirkland-wa",
+        "state": "WA",
+        "content": "Fine Custom Quality Carpentry is dedicated to serving the unique carpentry needs of Kirkland, Washington. With its beautiful waterfront properties along Lake Washington, Kirkland presents distinct opportunities for custom carpentry projects that enhance the beauty and functionality of homes. We specialize in creating outdoor living spaces that take full advantage of Kirkland's stunning natural surroundings.\n\nFrom custom decks and docks to elegant pergolas and outdoor kitchens, our team can transform your waterfront property into a true oasis. We also offer a full range of interior carpentry services, including kitchen and bathroom remodels, custom cabinetry, and trim work. We understand the importance of preserving the character of Kirkland's homes while incorporating modern amenities and design elements. Our experience allows us to deliver excellent and durable results, despite the climate.",
+        "localContext": "Kirkland's waterfront homes on Lake Washington benefit from carpentry that maximizes views and outdoor living, necessitating durable materials and expert craftsmanship to withstand the elements. The mild, wet winters demand weather-resistant solutions.",
+        "nearbyAreas": [
+          "Redmond",
+          "Bellevue",
+          "Kenmore"
+        ]
+      },
+      {
+        "city": "Tacoma",
+        "slug": "tacoma-wa",
+        "state": "WA",
+        "content": "Fine Custom Quality Carpentry is proud to serve the Tacoma, Washington area, bringing our expertise to the city's diverse architectural landscape. With its historic Stadium District and many homes dating back to the early 1900s, Tacoma presents unique challenges and opportunities for carpentry projects. We specialize in restoring and preserving the character of these classic homes while incorporating modern upgrades and amenities.\n\nWe have extensive experience working on Craftsman-style homes, understanding the intricate details and craftsmanship that define this architectural style. From restoring original trim work and windows to creating custom built-ins and cabinetry, our team is dedicated to preserving the history and charm of Tacoma's homes. We are also aware of the area's climate, using materials that are both beautiful and robust.",
+        "localContext": "Tacoma's historic Stadium District, with its 1900s-20s Craftsman homes, requires carpentry that respects the original architecture while providing modern functionality. The mild, wet winters necessitate careful material selection and expert craftsmanship to prevent damage.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Puyallup",
+          "University Place"
+        ]
+      },
+      {
+        "city": "Bothell",
+        "slug": "bothell-wa",
+        "state": "WA",
+        "content": "Fine Custom Quality Carpentry is pleased to offer our carpentry services to the residents of Bothell, Washington. Known for its suburban developments from the 1980s and 1990s, Bothell offers a variety of carpentry needs, from updating existing spaces to creating custom solutions for modern living. We specialize in transforming outdated homes into stylish and functional spaces that meet the needs of today's families.\n\nOur team is experienced in working on Bothell homes, understanding the common styles and construction methods used in the area. We offer a wide range of services, including kitchen and bathroom remodels, custom cabinetry, deck construction, and more. We are committed to providing high-quality workmanship and exceptional customer service, ensuring that every project is completed to your satisfaction. We also understand the need for durable and weather-resistant solutions.",
+        "localContext": "Bothell's suburban developments from the 1980s-90s often require updates to meet modern living needs, demanding carpentry that is both stylish and functional. The mild, wet winters necessitate durable, weather-resistant solutions.",
+        "nearbyAreas": [
+          "Woodinville",
+          "Kenmore",
+          "Mill Creek"
+        ]
+      },
+      {
+        "city": "Sammamish",
+        "slug": "sammamish-wa",
+        "state": "WA",
+        "content": "Fine Custom Quality Carpentry is delighted to serve the Sammamish, Washington community with our expert carpentry services. Sammamish, known for its family-friendly atmosphere and beautiful homes, presents a range of carpentry needs, from custom built-ins to outdoor living spaces. We are dedicated to enhancing the beauty and functionality of Sammamish homes.\n\nWhether you're looking to create a cozy reading nook, build a custom deck for entertaining, or update your kitchen with new cabinetry, our team is ready to bring your vision to life. We understand the importance of quality craftsmanship and attention to detail, and we are committed to delivering exceptional results that exceed your expectations. We use materials that can weather the local climate, ensuring long-lasting results.",
+        "localContext": "Sammamish's family-friendly homes often benefit from custom storage solutions and outdoor living spaces, requiring carpentry that is both practical and aesthetically pleasing. The mild, wet winters demand durable, weather-resistant solutions.",
+        "nearbyAreas": [
+          "Redmond",
+          "Issaquah",
+          "North Bend"
+        ]
+      },
+      {
+        "city": "Renton",
+        "slug": "renton-wa",
+        "state": "WA",
+        "content": "Fine Custom Quality Carpentry is proud to extend our services to Renton, Washington, providing top-notch carpentry solutions to homeowners in this vibrant city. Renton's diverse housing market, with styles ranging from mid-century homes to new constructions, presents a variety of carpentry needs. We specialize in adapting our skills to match the unique characteristics of each home.\n\nOur team is experienced in handling a wide range of projects, from kitchen and bathroom remodels to custom cabinetry and deck construction. We understand the importance of both functionality and aesthetics, and we are committed to delivering results that enhance the value and appeal of your home. We are also careful to choose weather-resistant materials.",
+        "localContext": "Renton's diverse housing market demands carpentry that can adapt to different styles and construction methods, requiring a versatile and experienced team. The mild, wet winters necessitate durable, weather-resistant solutions.",
+        "nearbyAreas": [
+          "Seattle",
+          "Tukwila",
+          "Kent"
+        ]
+      },
+      {
+        "city": "Shoreline",
+        "slug": "shoreline-wa",
+        "state": "WA",
+        "content": "Fine Custom Quality Carpentry is pleased to offer our expert carpentry services to the residents of Shoreline, Washington. Known for its established neighborhoods and tree-lined streets, Shoreline features a mix of home styles that require a skilled and versatile carpentry team. We are dedicated to providing high-quality craftsmanship and exceptional customer service to the Shoreline community.\n\nWhether you're looking to update your kitchen with custom cabinetry, create a more functional living space, or enhance your outdoor living area with a new deck, our team is ready to bring your vision to life. We understand the importance of attention to detail and quality materials, and we are committed to delivering results that exceed your expectations. The weather here requires quality construction.",
+        "localContext": "Shoreline's established neighborhoods and tree-lined streets require carpentry that is both aesthetically pleasing and functional, demanding attention to detail and quality materials. The mild, wet winters necessitate durable, weather-resistant solutions.",
+        "nearbyAreas": [
+          "Seattle",
+          "Edmonds",
+          "Lake Forest Park"
+        ]
+      },
+      {
+        "city": "Kenmore",
+        "slug": "kenmore-wa",
+        "state": "WA",
+        "content": "Fine Custom Quality Carpentry is delighted to serve the Kenmore, Washington area with our comprehensive range of carpentry services. Kenmore, situated on the northern shore of Lake Washington, offers a mix of residential properties, presenting a variety of carpentry needs and opportunities. We are committed to providing Kenmore residents with exceptional craftsmanship and reliable service.\n\nOur team is experienced in handling a wide range of projects, from interior renovations to exterior enhancements. Whether you're looking to remodel your kitchen or bathroom, build a custom deck, or add custom built-ins to your home, we have the skills and expertise to deliver outstanding results. We also consider the climate, and build to last.",
+        "localContext": "Kenmore's lakeside location and mix of residential properties require carpentry that can withstand the elements and enhance the beauty of the surroundings. The mild, wet winters necessitate durable, weather-resistant solutions.",
+        "nearbyAreas": [
+          "Bothell",
+          "Kirkland",
+          "Lake Forest Park"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Custom Cabinetry",
+        "text": "Fine Custom Quality Carpentry built gorgeous custom cabinets for our kitchen remodel. The quality of the craftsmanship is outstanding, and they perfectly matched our vision. The team was professional, communicative, and completed the project on time and within budget. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David M.",
+        "rating": 4,
+        "service": "Deck Repair",
+        "text": "We hired Fine Custom Quality Carpentry to repair our deck, which had suffered significant water damage. They did an excellent job replacing the damaged boards and reinforcing the structure. The deck is now safe and looks great. There was a minor communication issue initially, but they were quick to resolve it.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Trim and Moulding Installation",
+        "text": "The team at Fine Custom Quality Carpentry transformed our living room with beautiful trim and moulding. The attention to detail was impeccable, and the finished product exceeded our expectations. They were professional, courteous, and cleaned up thoroughly after the job.",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Door and Window Installation",
+        "text": "We replaced all the windows in our home with energy-efficient models from Fine Custom Quality Carpentry. The installation was seamless, and we've already noticed a significant difference in our energy bills. The team was knowledgeable, efficient, and provided excellent customer service.",
+        "date": "2024-07-12"
+      },
+      {
+        "name": "Linda P.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "Fine Custom Quality Carpentry repaired the siding on my home after a storm. They were quick to respond and did a great job matching the existing siding. The repair was done efficiently and professionally. I would definitely use them again.",
+        "date": "2024-05-01"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Framing Services",
+        "text": "Used them for a home addition. The framing was precise and solid. Passed inspection with no issues. Professional crew.",
+        "date": "2024-04-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Seattle Carpenter | Quality Carpentry Services",
+        "description": "Expert carpentry in Seattle, WA. Custom cabinets, decks, framing, and more. Call Fine Custom Quality Carpentry today!"
+      },
+      "about": {
+        "title": "About Fine Custom Quality Carpentry",
+        "description": "Learn about Fine Custom Quality Carpentry, Seattle's trusted carpentry experts. Quality craftsmanship and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "Carpentry Services | Seattle, WA",
+        "description": "Comprehensive carpentry services in Seattle. Custom cabinets, deck construction, framing, trim, and more. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Fine Custom Quality Carpentry",
+        "description": "Contact Fine Custom Quality Carpentry for all your carpentry needs in Seattle, WA. Get a free consultation and estimate today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Fine Custom Quality Carpentry",
+        "description": "Read reviews from satisfied customers of Fine Custom Quality Carpentry in Seattle, WA. See why we're the trusted choice!"
+      },
+      "service-areas": {
+        "title": "Service Areas | Fine Custom Quality Carpentry",
+        "description": "Fine Custom Quality Carpentry provides expert carpentry services throughout the Seattle metro area. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-cabinetry": "/images/service-custom-cabinetry.webp",
+      "deck-construction-repair": "/images/service-deck-construction-repair.webp",
+      "framing-services": "/images/service-framing-services.webp",
+      "trim-and-moulding": "/images/service-trim-and-moulding.webp",
+      "door-and-window-installation": "/images/service-door-and-window-installation.webp",
+      "siding-repair-installation": "/images/service-siding-repair-installation.webp"
+    },
+    "servicesResponsive": {
+      "custom-cabinetry": {
+        "src": "/images/service-custom-cabinetry.webp",
+        "srcset": "/images/service-custom-cabinetry-400w.webp 400w, /images/service-custom-cabinetry-800w.webp 800w, /images/service-custom-cabinetry-1200w.webp 1200w, /images/service-custom-cabinetry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-construction-repair": {
+        "src": "/images/service-deck-construction-repair.webp",
+        "srcset": "/images/service-deck-construction-repair-400w.webp 400w, /images/service-deck-construction-repair-800w.webp 800w, /images/service-deck-construction-repair-1200w.webp 1200w, /images/service-deck-construction-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "framing-services": {
+        "src": "/images/service-framing-services.webp",
+        "srcset": "/images/service-framing-services-400w.webp 400w, /images/service-framing-services-800w.webp 800w, /images/service-framing-services-1200w.webp 1200w, /images/service-framing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "trim-and-moulding": {
+        "src": "/images/service-trim-and-moulding.webp",
+        "srcset": "/images/service-trim-and-moulding-400w.webp 400w, /images/service-trim-and-moulding-800w.webp 800w, /images/service-trim-and-moulding-1200w.webp 1200w, /images/service-trim-and-moulding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-and-window-installation": {
+        "src": "/images/service-door-and-window-installation.webp",
+        "srcset": "/images/service-door-and-window-installation-400w.webp 400w, /images/service-door-and-window-installation-800w.webp 800w, /images/service-door-and-window-installation-1200w.webp 1200w, /images/service-door-and-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair-installation": {
+        "src": "/images/service-siding-repair-installation.webp",
+        "srcset": "/images/service-siding-repair-installation-400w.webp 400w, /images/service-siding-repair-installation-800w.webp 800w, /images/service-siding-repair-installation-1200w.webp 1200w, /images/service-siding-repair-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
